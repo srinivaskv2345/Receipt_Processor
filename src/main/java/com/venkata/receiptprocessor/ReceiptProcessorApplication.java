@@ -11,4 +11,5 @@ ReceiptProcessorApplication {
 		SpringApplication.run(ReceiptProcessorApplication.class, args);
 	}
 
+
 }
